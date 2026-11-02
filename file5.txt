@@ -1,1 +1,2 @@
-cambio en library, otro cambio pero sin hacer commit and push solo commit
+cambio en library, otro cambio pero sin hacer commit and push solo commit.
+Otro cambio para detached head 2
